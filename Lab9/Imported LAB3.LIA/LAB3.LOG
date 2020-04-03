@@ -1,0 +1,38 @@
+PCAD Importer Log
+Project : LAB3.LibPkg
+
+Section : C:\Users\User\Desktop\LAB3.LIA
+    Section : PCB Library - LAB3.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 94
+            Warning - 1 : Skipping Token defaultPinDes On Line 95
+            Warning - 1 : Skipping Token defaultPinDes On Line 96
+            Warning - 1 : Skipping Token defaultPinDes On Line 97
+            Warning - 1 : Skipping Token defaultPinDes On Line 98
+            Warning - 1 : Skipping Token TDA2003 On Line 112
+            Warning - 1 : Skipping Token attachedSymbol On Line 170
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - LAB3.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token viaStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 93
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token defaultPinDes On Line 119
+            Warning - 1 : Skipping Token defaultPinDes On Line 126
+            Warning - 1 : Skipping Token defaultPinDes On Line 133
+            Warning - 1 : Skipping Token defaultPinDes On Line 140
+            Warning - 1 : Skipping Token defaultPinDes On Line 147
+        EndSection
+
+        Section : Generating SCH Library - LAB3.SchLib
+        EndSection
+    EndSection
+EndSection
